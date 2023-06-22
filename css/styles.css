@@ -1,0 +1,36 @@
+:root {
+  --primary-brand-color: #4d5ae5;
+  --pressed-state-color: #404bbf;
+
+  --primary-text-color: #434455;
+  --dark-color: #2e2f42;
+  --subtle-text-color: #8e8f99;
+
+  --white-bg: #ffffff;
+  --success-color: #31d0aa;
+  --accent-color: #e7e9fc;
+  --light-mode-color: #f4f4fd;
+
+  --modal-overlay-color: rgba(46, 47, 66, 0.4);
+  --hero-bg-color: rgba(46, 47, 66, 0.7);
+  --modal-bg-color: #fcfcfc;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: var(--primary-text-color);
+  font-size: 16px;
+  background-color: var(--white-bg);
+  line-height: 1.5;
+  letter-spacing: 2%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--dark-color);
+}
+ul {
+  list-style-type: none;
+}
