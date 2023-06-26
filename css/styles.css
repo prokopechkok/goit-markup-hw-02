@@ -30,6 +30,7 @@ h4,
 h5,
 h6 {
   color: var(--navyblue-color);
+  letter-spacing: 0.02em;
 }
 .list {
   list-style: none;
@@ -79,7 +80,7 @@ h6 {
   color: var(--ocean-color);
 }
 
-.header-contacts .link {
+.header-contacts {
   font-style: normal;
 }
 .hero {
