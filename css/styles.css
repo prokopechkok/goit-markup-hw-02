@@ -129,12 +129,9 @@ h6 {
 .portfolio-filter-btn {
   background-color: var(--cloud-color);
   color: var(--primary-brand-color);
-  /* border: 1px solid var(--cornflower-color); */
 }
 .portfolio-filter-btn:hover,
 .portfolio-filter-btn:focus,
 .portfolio-filter-btn:active {
   color: var(--white);
-  /* box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12),
-    0px 2px 1px 0px rgba(0, 0, 0, 0.08), 0px 3px 1px 0px rgba(0, 0, 0, 0.1); */
 }
